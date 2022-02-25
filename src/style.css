@@ -1,0 +1,28 @@
+table{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+#button1
+{
+  background: red;  
+}
+#button2
+{
+  background: green;
+}
+  
+  #button3
+  {
+    background:blue;  
+  }
+
+#button4
+{
+  background: yellow;  
+}
+#button5
+{
+  background: pink;
+}
