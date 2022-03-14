@@ -1,11 +1,6 @@
 function function1() {
     
-    document.getElementById("button1").style.background = "red";
-    document.getElementById("button2").style.background = "red";
-    document.getElementById("button3").style.background = "red";
-    document.getElementById("button4").style.background = "red";
-    document.getElementById("button5").style.background = "red";
-    document.getElementById("table1").style.background = "red";
+    
     document.getElementById("body").style.background = "red";
 
 
@@ -14,12 +9,7 @@ function function1() {
 }
 function function2() {
     
-    document.getElementById("button1").style.background = "green";
-    document.getElementById("button2").style.background = "green";
-    document.getElementById("button3").style.background = "green";
-    document.getElementById("button4").style.background = "green";
-    document.getElementById("button5").style.background = "green";
-    document.getElementById("table1").style.background = "green";
+    
     document.getElementById("body").style.background = "green";
 
 
@@ -28,12 +18,7 @@ function function2() {
 }
 function function3() {
     
-    document.getElementById("button1").style.background = "blue";
-    document.getElementById("button2").style.background = "blue";
-    document.getElementById("button3").style.background = "blue";
-    document.getElementById("button4").style.background = "blue";
-    document.getElementById("button5").style.background = "blue";
-    document.getElementById("table1").style.background = "blue";
+    
     document.getElementById("body").style.background = "blue";
 
 
@@ -42,12 +27,7 @@ function function3() {
 }
 function function4() {
     
-    document.getElementById("button1").style.background = "yellow";
-    document.getElementById("button2").style.background = "yellow";
-    document.getElementById("button3").style.background = "yellow";
-    document.getElementById("button4").style.background = "yellow";
-    document.getElementById("button5").style.background = "yellow";
-    document.getElementById("table1").style.background = "yellow";
+    
     document.getElementById("body").style.background = "yellow";
 
 
@@ -55,12 +35,6 @@ function function4() {
 }
 function function5() {
     
-    document.getElementById("button1").style.background = "pink";  
-    document.getElementById("button2").style.background = "pink"; 
-    document.getElementById("button3").style.background = "pink";  
-    document.getElementById("button4").style.background = "pink";
-    document.getElementById("button5").style.background = "pink";
-    document.getElementById("table1").style.background = "pink";
     document.getElementById("body").style.background = "pink";
 
 
